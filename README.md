@@ -1,6 +1,6 @@
 ## Olá! Eu sou o André
 
-- 🔨 Hoje trabalho com front-end
+- 🔨 Developer front-end
 - 🌱 Estou estudando Typescript
 
 <div align="center">
