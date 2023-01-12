@@ -1,6 +1,6 @@
 ## Olá! Eu sou o André
 
-- 🔨 Developer front-end
+- 🔨 Desenvolvedor front-end
 - 🌱 Estou estudando Typescript
 
 <div style="display: inline_block"><br>
