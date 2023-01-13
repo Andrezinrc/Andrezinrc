@@ -19,5 +19,4 @@
   <a href="https://www.youtube.com/@Andrezinrc"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Andrezinrc/Andrezinrc/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
