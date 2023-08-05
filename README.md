@@ -9,11 +9,6 @@
 </div>
 
 <br>
-    
-## 
-
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
-
 
 ##
 <div style="display: inline_block;"><br>
@@ -32,4 +27,5 @@
   <a href="https://www.youtube.com/@Andrezinrc"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
