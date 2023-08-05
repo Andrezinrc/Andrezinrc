@@ -1,7 +1,10 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)!)
+
+<div dsplay="inline-block">
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<br>
-## Olá! Eu sou o André
+ 
+<h1 align="left"> Olá, eu sou Andrew Augusto😃</h1>
 
 <h3> 📚 Github Stats: <br></h3>
   
