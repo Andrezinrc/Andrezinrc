@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinrc&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<br>
-
 ##
 <div style="display: inline_block;"><br>
       <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -27,5 +25,5 @@
   <a href="https://www.youtube.com/@Andrezinrc"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <i>Hello, Wolrd</i> <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
