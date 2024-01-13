@@ -3,7 +3,6 @@
 <div align="center">
        <img alt="gif" height="120" width="150" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n9upddq0gzr2kl73lsmwmcr36uj0i0vg16pqt11e&rid=giphy.gif&ct=g](https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47ubbtbjwb9uzmxgi5xiez2kni3czkr02cc3cphdcq&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 </div>
-<h1 align="center"> Olá, eu sou André</h1>
 
 <div align="center" style="display: inline_block;"><br>
       <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -14,13 +13,6 @@
         <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<h3> 📚 Github Stats: <br></h3>
-  
-<div>
-  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Andrezinrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinrc&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andrezinrc}/count.svg" /></p> 
