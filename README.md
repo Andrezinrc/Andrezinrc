@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)!)
 
-<div dsplay="inline-block">
-
-<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<div align="center">
+       <img alt="gif" height="120" width="150" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n9upddq0gzr2kl73lsmwmcr36uj0i0vg16pqt11e&rid=giphy.gif&ct=g](https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47ubbtbjwb9uzmxgi5xiez2kni3czkr02cc3cphdcq&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+</div>
 <h1 align="center"> Olá, eu sou André</h1>
 
 <div align="center" style="display: inline_block;"><br>
