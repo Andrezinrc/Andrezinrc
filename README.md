@@ -11,5 +11,4 @@
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="vertical-align: middle;">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40" style="vertical-align: middle; fill: #007B5E;">
 </div>
