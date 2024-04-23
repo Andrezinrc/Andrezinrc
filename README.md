@@ -4,11 +4,6 @@
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
 
-<br><br>
-
-<img align = "right" width = "450px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
-<!--FIM cabeçalho HELLO WORD-->
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)!)
 
 <div align="center">
