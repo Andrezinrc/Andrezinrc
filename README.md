@@ -19,7 +19,7 @@
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="andre-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="andre-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="andre-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="andre-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ![Snake animation](https://github.com/eduarda-rocha/eduarda-rocha/blob/output/github-contribution-grid-snake.svg)
